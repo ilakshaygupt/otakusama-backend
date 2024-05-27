@@ -37,8 +37,6 @@ ALLOWED_HOSTS = ["*"]
 CSRF_TRUSTED_ORIGINS = [
     "http://127.0.0.1:8000",
     "http://localhost:3000",
-    "https://weblakshay.tech",
-    "https://mangareader.weblakshay.tech",
 ]
 INSTALLED_APPS = [
     "django.contrib.admin",
