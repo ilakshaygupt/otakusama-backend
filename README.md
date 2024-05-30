@@ -1,6 +1,12 @@
 # Otakusama
 
-Welcome to Otakusama! This is a  application that allows you to explore and read manga online. Below is a guide on how to use the application.
+
+Welcome to Otakusama! This is a  application that allows you to explore and read manga online. 
+
+## OverView
+### ICON
+![Screenshot_2024-05-30_at_6 26 29_PM-removebg-preview](https://github.com/ilakshaygupt/otakusama-backend/assets/99826011/60276f73-6802-450d-a9dd-5fe6439eee1a)
+### Working Video
 
 ## Homepage
 
