@@ -1,12 +1,29 @@
 # Otakusama
+<img src = "https://github.com/ilakshaygupt/otakusama-backend/assets/99826011/60276f73-6802-450d-a9dd-5fe6439eee1a" width ="200">
 
-
-Welcome to Otakusama! This is a  application that allows you to explore and read manga online. 
+ Otakusama is a Flutter application powered by Django Backend that allows you to explore and read manga online.
+ 
 
 ## OverView
-### ICON
-![Screenshot_2024-05-30_at_6 26 29_PM-removebg-preview](https://github.com/ilakshaygupt/otakusama-backend/assets/99826011/60276f73-6802-450d-a9dd-5fe6439eee1a)
+
+
+
+### IMAGES
+<p align="center">
+  <img src = "https://github.com/ilakshaygupt/otakusama-backend/assets/99826011/9e97f153-bdfc-46b1-809c-6c6cb87f5601" width = "150">
+  <img src = "https://github.com/ilakshaygupt/otakusama-backend/assets/99826011/e13796da-40a2-480a-8e06-7ca2e7579f2b" width = "150">
+  <img src="https://github.com/ilakshaygupt/otakusama-backend/assets/99826011/d9eb1a01-84d8-4947-a302-39f48555c9e7" width="150" >
+    <img src="https://github.com/ilakshaygupt/otakusama-backend/assets/99826011/a4674d82-f3f4-4c8c-800e-aecc51072da0" width="150" >
+    
+     
+    
+</p>
 ### Working Video
+
+
+https://github.com/ilakshaygupt/otakusama-backend/assets/99826011/0d14a2d7-eaac-4f8d-afe1-f94893762fed
+
+
 
 ## Homepage
 
