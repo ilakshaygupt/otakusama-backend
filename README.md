@@ -2,7 +2,8 @@
 <img src = "https://github.com/ilakshaygupt/otakusama-backend/assets/99826011/60276f73-6802-450d-a9dd-5fe6439eee1a" width ="200">
 
  Otakusama is a Flutter application powered by Django Backend that allows you to explore and read manga online.
- 
+
+
 
 ## OverView
 
@@ -18,6 +19,7 @@
      
     
 </p>
+
 ### Working Video
 
 
@@ -53,4 +55,10 @@ To keep track of your favorite manga series, you can add them to your favorites 
 
 Otakusama keeps track of your reading history. You can easily access the manga titles you have recently read and continue from where you left off.
 
-That's it! You are now ready to explore and enjoy Otakusama. Happy reading!
+## Frontend repository 
+
+<div align ="center">
+    <a href="https://github.com/ilakshaygupt/otakusama-frontend" alt="Otakusama Frontend">Otakusama Frontend</a>
+</div>
+
+
